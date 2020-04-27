@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Archive
+title: archive
+published: true
 ---
 
 ## Blog Posts
