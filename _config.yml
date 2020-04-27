@@ -2,7 +2,7 @@
 title:               planetspaceball
 tagline:             'here'
 description:         ''
-url:                 http://planetspaceball.github.io
+url:                 https://planetspaceball.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
