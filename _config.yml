@@ -9,7 +9,9 @@ permalink:           pretty
 pages_list:       
   About: '/about'
   Archive: '/archive'
+  Wiki: '/wiki'
   Feed: '/atom.xml'
+  
 
 # About/contact
 author:
