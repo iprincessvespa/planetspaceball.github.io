@@ -1,6 +1,7 @@
 ---
-
-
+layout: page
+title: Misc
+published: true
 ---
 
 <p><img alt="enter image description here" src="https://raw.githubusercontent.com/planetspaceball/planetspaceball.github.io/master/images/cassette.jpg"></p>
