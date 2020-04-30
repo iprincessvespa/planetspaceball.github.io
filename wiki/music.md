@@ -1,3 +1,7 @@
+---
+layout: page
+title: Music
+---
 #Cassette
 
  - [Cassette Cover Art
