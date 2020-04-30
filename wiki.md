@@ -24,10 +24,6 @@ Soon to be a curated link collection.
     <td class="tg-g058">Music</td>
     <td class="tg-g058"></td>
   </tr>
-  <tr>
-    <td class="tg-g058"></td>
-    <td class="tg-g058"></td>
-    <td class="tg-g058"></td>
-  </tr>
+
 </table></div>
 
