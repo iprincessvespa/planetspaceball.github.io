@@ -10,7 +10,7 @@ Soon to be a curated link collection.
 .tg td{border-color:black;border-style:solid;border-width:20px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:20px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-g058{background-color:#83f52c;border-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-g058{color:#ff0099;background-color:#83f52c;border-color:#ffffff;text-align:left;vertical-align:top}
 </style>
 <div class="tg-wrap"><table class="tg">
   <tr>
