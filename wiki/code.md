@@ -2,6 +2,10 @@
 layout: page
 title: Code
 ---
+<h1>Jekyll</ht><br />
+[https://jekyllcodex.org/without-plugins/](https://jekyllcodex.org/without-plugins/)
+<br /><hr><br />
+
 <h1>Fun Tools</h1><br />
 [Glitter Graphics](http://www.glitter-graphics.com)  
 [Blinkie Maker](https://www.animationpatch.com/blinkiemaker.html)  
