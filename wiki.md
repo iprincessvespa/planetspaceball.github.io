@@ -5,7 +5,7 @@ published: true
 ---
 Soon to be a curated link collection.
 
-<table style="width: 1444px; border-color: #ffffff;" border="10" cellspacing="10" cellpadding="5">
+<table style="width: 800px; border-color: #ffffff;" border="10" cellspacing="10" cellpadding="5">
 <tbody>
 <tr>
 <td style="background-color: #83f52c;">Art</td>
