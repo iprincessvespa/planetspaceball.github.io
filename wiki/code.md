@@ -2,7 +2,7 @@
 layout: page
 title: Code
 ---
-<h1>Jekyll</ht><br />
+<h3>Jekyll</h3><br />
 [https://jekyllcodex.org/without-plugins/](https://jekyllcodex.org/without-plugins/)
 <br /><hr><br />
 
