@@ -12,7 +12,7 @@ Soon to be a curated link collection.
 .tg th{border-color:black;border-style:solid;border-width:20px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-g058{background-color:#83f52c;border-color:#ffffff;text-align:left;vertical-align:top}
-@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
+@media screen and (max-width: 850px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
 <div class="tg-wrap"><table class="tg">
   <tr>
     <td class="tg-g058">Art</td>
