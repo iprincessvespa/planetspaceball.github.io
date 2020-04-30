@@ -6,7 +6,7 @@ published: true
 Soon to be a curated link collection.
 
 
-<table style="width: 1444px;" border="5" cellspacing="0" cellpadding="5">
+<table style="width: 608px;" border="0" cellspacing="5" cellpadding="5">
 <tbody>
 <tr>
 <td style="background-color: #83f52c;">Art</td>
