@@ -5,19 +5,29 @@ published: true
 ---
 Soon to be a curated link collection.
 
-<table style="width: 800px; border-color: #ffffff;" border="10" cellspacing="10" cellpadding="5">
-<tbody>
-<tr>
-<td style="background-color: #83f52c;">Art</td>
-<td style="background-color: #83f52c;">Books</td>
-<td style="background-color: #83f52c;">Games</td>
-</tr>
-<tr>
-<td style="background-color: #83f52c;">Music</td>
-<td style="background-color: #83f52c;">&nbsp;</td>
-<td style="background-color: #83f52c;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-g058{background-color:#83f52c;border-color:#ffffff;text-align:left;vertical-align:top}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
+<div class="tg-wrap"><table class="tg">
+  <tr>
+    <td class="tg-g058">Art</td>
+    <td class="tg-g058">Books</td>
+    <td class="tg-g058">Code</td>
+  </tr>
+  <tr>
+    <td class="tg-g058">Games</td>
+    <td class="tg-g058">Music</td>
+    <td class="tg-g058"></td>
+  </tr>
+  <tr>
+    <td class="tg-g058"></td>
+    <td class="tg-g058"></td>
+    <td class="tg-g058"></td>
+  </tr>
+</table></div>
 
