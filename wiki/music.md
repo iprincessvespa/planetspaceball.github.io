@@ -2,8 +2,6 @@
 layout: page
 title: Music
 ---
-#Cassette
-
  - [Cassette Cover Art
    Library](http://cassettecoverartlib.blogspot.com/)
  - [Discogs](https://www.discogs.com/search/?format_exact=Cassette)
