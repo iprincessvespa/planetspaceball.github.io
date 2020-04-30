@@ -20,7 +20,7 @@ Soon to be a curated link collection.
   </tr>
   <tr>
     <td class="tg-g058">Games</td>
-    <td class="tg-g058">[Music](http://planetspaceball.github.io/wiki/music.md)</td>
+    <td class="tg-g058">[Music](https://planetspaceball.github.io/wiki/music.md)</td>
     <td class="tg-g058"></td>
   </tr>
 
