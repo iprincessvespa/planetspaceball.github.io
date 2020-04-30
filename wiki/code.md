@@ -2,7 +2,7 @@
 layout: page
 title: Code
 ---
-#Fun Tools
+#Fun Tools<br />
 [Glitter Graphics](http://www.glitter-graphics.com)  
 [Blinkie Maker](https://www.animationpatch.com/blinkiemaker.html)  
 [Waifu Image Awesomeizer](https://waifu2x.me)  
