@@ -6,7 +6,7 @@ title: Code
 [Jekyll Without Plugins](https://jekyllcodex.org/without-plugins/)
 <br />****<br />
 
-<h1>Fun Tools</h1><br />
+<h3>Fun Tools</h3><br />
 [Glitter Graphics](http://www.glitter-graphics.com)  
 [Blinkie Maker](https://www.animationpatch.com/blinkiemaker.html)  
 [Waifu Image Awesomeizer](https://waifu2x.me)  
