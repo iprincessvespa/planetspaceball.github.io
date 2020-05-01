@@ -8,7 +8,7 @@ title: Code
 <h3>Fun Tools</h3><br />
 <a href="http://www.glitter-graphics.com" style="color:#FF0099;">Glitter Graphics</a><br />
   <a href="https://www.animationpatch.com/blinkiemaker.html" style="color:#FF0099;">Blinkie Maker</a><br>
-  <a href="https://waifu2x.me" style="color:#FF0099;">Waifu Image Awesomeizer"</a><br>
+  <a href="https://waifu2x.me" style="color:#FF0099;">Waifu Image Awesomeizer</a><br>
   <a href="https://makepixelart.com/" style="color:#FF0099;">Make Pixel Art</a><br>
   <a href="https://fonts.google.com/" style="color:#FF0099;">Google Fonts</a><br>
   <a href="https://www.rapidtables.com/web/color/RGB_Color.html" style="color:#FF0099;">RGB Color Codes Chart</a><br>
