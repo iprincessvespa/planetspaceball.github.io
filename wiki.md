@@ -14,9 +14,9 @@ Soon to be a curated link collection.
 </style>
 <div class="tg-wrap"><table class="tg">
   <tr>
-    <td class="tg-g058">Art</td>
-    <td class="tg-g058">Books</td>
-    <td class="tg-g058">Code</td>
+    <td class="tg-g058"><a href="https://planetspaceball.github.io/wiki/art.md" style="color:#FF0099;">Art</a></td>
+    <td class="tg-g058"><a href="https://planetspaceball.github.io/wiki/books.md" style="color:#FF0099;">Books</a></td>
+    <td class="tg-g058"><a href="https://planetspaceball.github.io/wiki/code.md" style="color:#FF0099;">Code</a></td>
   </tr>
   <tr>
     <td class="tg-g058">Games</td>
