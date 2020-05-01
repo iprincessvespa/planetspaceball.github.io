@@ -19,7 +19,7 @@ Soon to be a curated link collection.
     <td class="tg-g058"><a href="https://planetspaceball.github.io/wiki/code.md" style="color:#FF0099;">Code</a></td>
   </tr>
   <tr>
-    <td class="tg-g058">Games</td>
+    <td class="tg-g058"><a href="https://planetspaceball.github.io/wiki/games.md" style="color:#FF0099;">Games</a></td>
     <td class="tg-g058"><a href="https://planetspaceball.github.io/wiki/music.md" style="color:#FF0099;">Music</a></td>
     <td class="tg-g058"></td>
   </tr>
