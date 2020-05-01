@@ -3,8 +3,7 @@ layout: page
 title: Code
 ---
 <h3>Jekyll</h3><br />
-[Jekyll Without Plugins](https://jekyllcodex.org/without-plugins/)
-<br /><code><hr></code><br />
+[Jekyll Without Plugins](https://jekyllcodex.org/without-plugins/)<br />
 
 <h3>Fun Tools</h3><br />
 <a href="http://www.glitter-graphics.com" style="color:#FF0099;">Glitter Graphics</a>
