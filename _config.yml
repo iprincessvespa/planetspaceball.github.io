@@ -1,9 +1,9 @@
 # Setup
 title:               planetspaceball
-tagline:             'here be dragons'
+tagline:             ''
 description:         ''
 url:                 https://planetspaceball.github.io
-baseurl:             ''
+baseurl:             'https://planetspaceball.github.io'
 paginate:            5
 permalink:           pretty
 pages_list:       
