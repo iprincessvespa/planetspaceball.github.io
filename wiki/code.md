@@ -7,7 +7,7 @@ title: Code
 <br /><code><hr></code><br />
 
 <h3>Fun Tools</h3><br />
-[Glitter Graphics](http://www.glitter-graphics.com)  
+<a href="http://www.glitter-graphics.com" style="color:#FF0099;">Glitter Graphics</a>
 [Blinkie Maker](https://www.animationpatch.com/blinkiemaker.html)  
 [Waifu Image Awesomeizer](https://waifu2x.me)  
 [Make Pixel Art](https://makepixelart.com/)  
