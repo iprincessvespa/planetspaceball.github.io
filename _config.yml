@@ -3,7 +3,7 @@ title:               planetspaceball
 tagline:             ''
 description:         ''
 url:                 https://planetspaceball.github.io
-baseurl:             'https://planetspaceball.github.io'
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 pages_list:       
