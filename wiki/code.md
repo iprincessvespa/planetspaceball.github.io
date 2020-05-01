@@ -5,7 +5,7 @@ title: Code
 <h3>Jekyll</h3><br />
 [Jekyll Without Plugins](https://jekyllcodex.org/without-plugins/)<br />
 
-<h3>Fun Tools</h3><br /><br />
+<h3>Fun Tools</h3><br />
 <a href="http://www.glitter-graphics.com" style="color:#FF0099;">Glitter Graphics</a><br />
 [Blinkie Maker](https://www.animationpatch.com/blinkiemaker.html)  
 [Waifu Image Awesomeizer](https://waifu2x.me)  
