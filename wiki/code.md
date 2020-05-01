@@ -4,7 +4,7 @@ title: Code
 ---
 <h3>Jekyll</h3><br />
 [Jekyll Without Plugins](https://jekyllcodex.org/without-plugins/)
-<br />****<br />
+<br /><hr><br />
 
 <h3>Fun Tools</h3><br />
 [Glitter Graphics](http://www.glitter-graphics.com)  
